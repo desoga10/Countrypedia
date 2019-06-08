@@ -1,0 +1,9 @@
+body {
+  background-color: white;
+  padding: 0 0 0 20%;
+  margin: 5%;
+}
+#countryList {
+  width: 70%;
+  padding-left: 11%;
+}
